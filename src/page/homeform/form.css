@@ -1,0 +1,14 @@
+.form_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: greenyellow;
+    padding: 12px 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+}

@@ -1,0 +1,16 @@
+.form_{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: gainsboro;
+    border-radius: 12px;
+}
+
+.form_ .title_{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-transform: uppercase;
+}

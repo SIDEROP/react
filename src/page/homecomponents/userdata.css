@@ -1,0 +1,25 @@
+.userdata_container{
+    display: flex;
+    background-color: cadetblue;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.userdata_container .user_{
+    display: flex;
+    gap: 20px;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    color: blue;
+    padding: 8px;
+    align-items: center;
+}
+
+.userdata_container .user_> div{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 12px;
+}
